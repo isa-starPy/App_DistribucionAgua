@@ -1,1 +1,4 @@
 librerias  y versiones de las librerias
+fast apy
+map algo
+pip install nombre de libreria

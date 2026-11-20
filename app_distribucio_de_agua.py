@@ -30,3 +30,9 @@
 
 
 #SOLO 2 MESES PARA DESARROLLAR LA APP
+##Que hacemos hoy 
+#Pantalla de inicio
+#logo debo hacerlo
+#cargar usuario
+#Qr de pago facil
+
